@@ -1,4 +1,4 @@
-# Black-Swan-group-workshop
+# Black-Swan-Remote-Extraction-Machine-group-workshop
 ![BlackSwanData](black-swan-data.png)
 # HOW IT WORKS
 Nothing has the impact of actual photo or video footage of an event. It is said pictures never lie. We make sure that rings true. One valuable service we provide is the “cleaning up” of visual and audio files.
